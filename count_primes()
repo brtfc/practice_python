@@ -13,5 +13,3 @@ def count_primes2(num):
     
     return is_prime_count
 ```
-
-                   
