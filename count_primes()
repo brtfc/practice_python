@@ -1,5 +1,5 @@
 ```python
-def count_primes2(num):
+    def count_primes2(num):
     is_prime_count = 0
     primes = []
     for i in range(2, num+1):
@@ -12,4 +12,5 @@ def count_primes2(num):
     print(primes)
     
     return is_prime_count
+
 ```
